@@ -1,0 +1,10 @@
+.btn {
+    background-color: var(--main-color-2);
+    color: var(--main-color-4);
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.btn:hover {
+    color: var(--main-color-1);
+}

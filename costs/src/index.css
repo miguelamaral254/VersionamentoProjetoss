@@ -5,6 +5,14 @@
   font-family: 'Open Sans', sans-serif;
 
 }
+:root{
+  --main-color-1:#ffbb33;
+  --main-color-2:#222;
+  --main-color-3:#7b7b7b;
+  --main-color-4:#fff;
+  
+
+}
 
 html, body, #root {
   background-color: #efefef ;
