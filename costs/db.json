@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "12312312",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste 2",
+      "budget": "12213123",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "teste 3",
+      "budget": "1241241234",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "test 4",
+      "budget": "12312312",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}

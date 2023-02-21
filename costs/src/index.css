@@ -10,11 +10,23 @@
   --main-color-2:#222;
   --main-color-3:#7b7b7b;
   --main-color-4:#fff;
+  --message-color-1:#155724;
+  --message-color-2:#d4edda;
+  --message-color-3:#c3e6cb;
+  --message-color-4:#721c24;
+  --message-color-5:#f8d7da;
+  --message-color-6:#f5c6cb;
+  --project-color-1:#7a7a7a;
+  --category-color-1:#ffaebc;
+  --category-color-2:#a0e7e5;
+  --category-color-3:#b4f8c8;
+  --category-color-4:#fbe7c6;
+  
   
 
 }
 
 html, body, #root {
-  background-color: #efefef ;
+  background-color: var(--main-color-4) ;
   height: 100%;
 }
