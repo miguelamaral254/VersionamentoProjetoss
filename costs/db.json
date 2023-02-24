@@ -2,6 +2,17 @@
   "projects": [
     {
       "name": "123123",
+      "budget": "1",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste 3",
       "budget": "123123",
       "category": {
         "id": "1",
@@ -9,7 +20,7 @@
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 2
     }
   ],
   "categories": [
