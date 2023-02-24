@@ -6,6 +6,7 @@ import Company from './Components/Pages/Company';
 import Contact from './Components/Pages/Contact';
 import Home from './Components/Pages/Home';
 import NewProject from './Components/Pages/NewProject';
+import Project from './Components/Pages/Project';
 import Projects from './Components/Pages/Projects';
 
 
@@ -22,6 +23,7 @@ function App() {
           <Route ecact path='/company' element={<Company />}/>
           <Route exact path="/contact" element={<Contact />}/>
           <Route exact path="/newproject" element={<NewProject />}/>
+          <Route exact path="/project/:id" element={<Project/>} />
         </Routes>
         
       </Container>
