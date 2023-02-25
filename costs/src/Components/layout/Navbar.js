@@ -10,6 +10,7 @@ function Navbar(){
                 <Link to="/">
                     <img src={logo} alt='Costs' />
                  </Link>
+                 <button className={styles.btn}>hello</button>
                 <ul className={styles.list}>
                     <li className={styles.item}>
                         <Link to="/">Home</Link>

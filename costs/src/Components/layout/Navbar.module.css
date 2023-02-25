@@ -1,22 +1,30 @@
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    background-color: var(--main-color-2);
-    padding: 1em;
-}
-.list {
-    display: flex;
-    list-style: none;
-    align-items: center;
 
-}
-.item {
-    margin-right: 1em;
-}
-.item a {
-    color:var(--main-color-4);
-    text-decoration: none;
-}
-.item a:hover {
-    color:var(--main-color-1);
+@media screen and (min-width: 960px) {
+    .btn {
+        display: none;
+    }
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        background-color: var(--main-color-2);
+        padding: 1em;
+        width: 100%;
+    }
+    .list {
+        display: flex;
+        list-style: none;
+        align-items: center;
+    
+    }
+    .item {
+        margin-right: 1em;
+    }
+    .item a {
+        color:var(--main-color-4);
+        text-decoration: none;
+    }
+    .item a:hover {
+        color:var(--main-color-1);
+    }
+    
 }
