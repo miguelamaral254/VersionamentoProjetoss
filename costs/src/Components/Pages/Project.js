@@ -70,6 +70,7 @@ function Project() {
         const newCost = parseFloat(project.cost) + parseFloat(lastServiceCost)
         // maximum value validation
         if(newCost > parseFloat(project.budget)) {
+            
             setMessage('Budget exceeded, check the value of the service')
             setType('error')
             project.services.pop()
