@@ -1,26 +1,22 @@
 {
   "projects": [
     {
-      "name": "123123",
-      "budget": "1",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "teste 3",
-      "budget": "123123",
+      "name": "reforma da sala x",
+      "budget": "2000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
-      "id": 2
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Contratar pedreiro",
+          "cost": "1000",
+          "description": "aaaaa",
+          "id": "88703ca5-895d-4343-bd7a-b513842987fb"
+        }
+      ],
+      "id": 4
     }
   ],
   "categories": [
