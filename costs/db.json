@@ -1,22 +1,22 @@
 {
   "projects": [
     {
-      "name": "reforma da sala x",
+      "name": "Highend",
       "budget": "2000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 1000,
+      "cost": 300,
       "services": [
         {
-          "name": "Contratar pedreiro",
-          "cost": "1000",
-          "description": "aaaaa",
-          "id": "88703ca5-895d-4343-bd7a-b513842987fb"
+          "name": "Hire a emplyer",
+          "cost": "300",
+          "description": "cleanner",
+          "id": "b0cd826f-e31c-4095-9c5f-e4741f23faa3"
         }
       ],
-      "id": 4
+      "id": 1
     }
   ],
   "categories": [
